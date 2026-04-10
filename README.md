@@ -1,8 +1,4 @@
-Absolutely — here is a **cleaner, sharper, more professional, and more meaningful README rewrite** based on your original content, with **your name and student ID added properly** and with the talking points upgraded substantially. This version is structured to look stronger on GitHub and read more like a polished academic + technical project document. 
 
----
-
-# README.md
 
 # Vanilla CNN vs Fine-Tuned VGG16 for Dogs vs Cats Classification
 
